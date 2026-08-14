@@ -21,3 +21,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .eslintcache
+
+# Assignment Files
+CognoDB-Assignment-2-Application.docx.txt
+
