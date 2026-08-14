@@ -108,3 +108,14 @@ Once started, navigate to `http://localhost:3000` in your web browser.
 - **Dynamic Disruption Simulation**: Select a Supplier or Facility, click **Simulate Disruption**, and see the downstream path highlight in **red** while unrelated nodes fade out.
 - **Live KPI Badges**: Shows the count of total nodes, relationships, and active impacted nodes in real-time.
 - **Risk Pathway Indicator**: Sidebar widget flagging products containing parts from critical/high-risk suppliers.
+
+---
+
+## Screenshots
+
+### 1. Global Supply Chain Network Canvas (Initial State)
+![Global Supply Chain Network Canvas](assets/initial_state.png)
+
+### 2. Disruption Propagation Simulation
+![Disruption Propagation Simulation](assets/disruption_simulation.png)
+
